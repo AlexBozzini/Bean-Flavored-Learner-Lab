@@ -1,4 +1,4 @@
-package alexbozzini.beanflavoredlearnerlab;
+package alexbozzini.beanflavoredlearnerlab.Models;
 
 import java.util.List;
 

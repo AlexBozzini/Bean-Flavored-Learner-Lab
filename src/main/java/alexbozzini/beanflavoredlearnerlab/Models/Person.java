@@ -1,4 +1,4 @@
-package alexbozzini.beanflavoredlearnerlab;
+package alexbozzini.beanflavoredlearnerlab.Models;
 
 public class Person {
     private final Long id;

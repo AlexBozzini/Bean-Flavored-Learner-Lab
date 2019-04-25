@@ -1,6 +1,4 @@
-package alexbozzini.beanflavoredlearnerlab;
-
-import java.util.ArrayList;
+package alexbozzini.beanflavoredlearnerlab.Models;
 
 public class Classroom {
     private Instructors instructors;

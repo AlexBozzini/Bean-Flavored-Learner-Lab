@@ -1,4 +1,4 @@
-package alexbozzini.beanflavoredlearnerlab;
+package alexbozzini.beanflavoredlearnerlab.Models;
 
 public class Student extends Person implements Learner {
     private Double totalStudyTime;
